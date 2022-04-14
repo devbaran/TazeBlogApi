@@ -31,7 +31,7 @@ Konfigurasyonlar tamamlandıktan sonra Web App deploy edilmeli.
 
 #### • Database Deploy
 
-Uygulamamızın veritabanı için yine Azure tarafında SQL Database kurulmalı. Burada kurulumda ekstra gerekli bir konfigurasyon mevcut değil. Ek olarak database kısmında ücretsiz bir plan yok, projenin küçük olması sebebiyle en basit SQL planı fazlasıyla yeterli olacaktır. Ardından deploy işlemi başlatılmalıdır.
+Uygulamamızın veritabanı için yine Azure tarafında SQL Database kurulmalı (elbette farklı database'ler bağlanabilir, zorunlu değil). Burada kurulumda ekstra gerekli bir konfigurasyon mevcut değil. Ek olarak database kısmında ücretsiz bir plan yok, projenin küçük olması sebebiyle en basit SQL planı fazlasıyla yeterli olacaktır. Ardından deploy işlemi başlatılmalıdır.
 
 Deploy tamamlandıktan sonra eğer SSMS kullanacaksanız, SSMS üzerinden erişim sağlayabilmek için oluşturduğumuz database üzerinde firewall ayarlanmalıdır. Set server firewall kısmına girerek durumu etkin hale getiriyoruz ve Add client IP kısmından mevcut IP değerimizi ekliyoruz. Ardından SSMS üzerinden erişim sağlanabilecektir.
 
