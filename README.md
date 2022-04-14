@@ -90,7 +90,7 @@ Bu Json içerisinde mutlaka success ve message verileri de bulunacaktır. Bu de�
         "id": 1002,
         "categoryId": 1,
         "title": "Kararlılık",
-        "content": "Kararlı olmak ve sürekli çalışıp üretmek, bizleri başarıya götüren tek yol olacaktır.",
+        "content": "Kararlı olmak ve sürekli çalışıp üretmek, bizleri mutlaka başarıya götüren yol olacaktır.",
         "creationDate": "2022-04-12T00:00:00",
         "status": true
     },
